@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/TheSplashLayout"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:layout_width="353dp"
+        android:layout_height="179dp"
+        android:id="@+id/SplashImageView"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_launcher"></ImageView>
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blueBottom">#00bbde</color>
+    <color name="witheLetter">#FFFFFF</color>
+    <color name="listview_select_background">#0C1114</color>
+    <color name="black_person">#0C1114</color>
+    <color name="blue_two">#7BCCE8</color>
+    <color name="gray">#9c9ea0</color>
+    <color name="graybg">#D3D3D5</color>
+    <color name="ColorPrimary">#e62117</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <color name="negro">#000000</color>
+    <color name="top_navigation_background">#07151F</color>
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#827717</color>
+    <color name="list_background_pressed">#AFB42B</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="action_bar">#E6EE9C</color>
+</resources>
